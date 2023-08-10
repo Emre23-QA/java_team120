@@ -14,5 +14,6 @@ public class C06_Runner {
         System.out.println(obj.publicSayi); // 0
         obj.publicSayi = 50;
         System.out.println(obj.publicSayi); // 50
+     
     }
 }
