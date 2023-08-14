@@ -1,4 +1,4 @@
-package day34_inheritance;
+package day36_inheritanceDataTypeKullanimi;
 
 public class GAvciKuslar extends FKuslar{
     public void hareket() {
